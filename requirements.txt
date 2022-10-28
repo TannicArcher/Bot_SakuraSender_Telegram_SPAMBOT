@@ -1,0 +1,6 @@
+telethon
+apscheduler
+environs
+aiosqlite
+requests
+aiogram
